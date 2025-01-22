@@ -1,5 +1,5 @@
 import React from "react";
-import AboutImage from "../assets/aboutme-image.png";
+import AboutImage from "../assets/aboutme-image.jpg";
 
 const About = () => {
   return (
@@ -14,10 +14,11 @@ const About = () => {
           />
           <div className="flex-1">
             <p className="text-lg mb-8">
-              I am a passionate full-stack developer with a focus on building
-              modern and responsive web applications. With a strong foundation
-              in both frontend and backend technologies, I strive to create
-              seamless and efficient user experiences.
+            A highly motivated BE Computer Science and Engineering graduate with hands-on experience in web development
+ during my internship at ICEICO Pvt Ltd, Nagpur. I have developed a strong foundation in programming, software
+ development, and problem-solving. Eager to apply my academic knowledge and internship learnings in a professional
+ environment, I am passionate about continuous learning and growth, and I am ready for immediate joining. I am open
+ to relocation for the right opportunity
             </p>
             <div className="space-y-4">
               <div className="flex items-center">
@@ -31,6 +32,30 @@ const About = () => {
                   ></div>
                 </div>
               </div>
+
+              <div className="flex items-center">
+                <label htmlFor="htmlandcss" className="w-2/12">
+                 BOOTSTRAP-5 & TAILWIND-CSS
+                </label>
+                <div className="grow bg-gray-800 rounded-full h-2.5">
+                  <div
+                    className="bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full 
+                    transform transition-transform duration-300 hover:scale-105 w-10/12"
+                  ></div>
+                </div>
+              </div>
+
+              <div className="flex items-center">
+                <label htmlFor="htmlandcss" className="w-2/12">
+                      JavaScript                </label>
+                <div className="grow bg-gray-800 rounded-full h-2.5">
+                  <div
+                    className="bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full 
+                    transform transition-transform duration-300 hover:scale-105 w-11/12"
+                  ></div>
+                </div>
+              </div>
+
               <div className="flex items-center">
                 <label htmlFor="htmlandcss" className="w-2/12">
                   React JS
@@ -44,7 +69,7 @@ const About = () => {
               </div>
               <div className="flex items-center">
                 <label htmlFor="htmlandcss" className="w-2/12">
-                  Node JS
+                  Python
                 </label>
                 <div className="grow bg-gray-800 rounded-full h-2.5">
                   <div
@@ -58,24 +83,18 @@ const About = () => {
                 <div>
                     <h3 className="text-2xl font-bold text-transparent bg-clip-text 
                 bg-gradient-to-r from-green-400 to-blue-500">
-                        3+
+                        6+
                     </h3>
-                    <p>Years Experience</p>
-                </div>
-                <div>
-                    <h3 className="text-2xl font-bold text-transparent bg-clip-text 
-                bg-gradient-to-r from-green-400 to-blue-500">
-                        50+
-                    </h3>
-                    <p>Projects Completed</p>
+                    <p>Months Experience</p>
                 </div>
                 <div>
                     <h3 className="text-2xl font-bold text-transparent bg-clip-text 
                 bg-gradient-to-r from-green-400 to-blue-500">
                         10+
                     </h3>
-                    <p>Happy Clients</p>
+                    <p>Projects Completed</p>
                 </div>
+               
             </div>
           </div>
         </div>

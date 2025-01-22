@@ -13,23 +13,23 @@ const services = [
   },
   {
     id: 3,
-    title: "Backend Development",
-    description: "Developing robust server-side logic and databases.",
+    title: "Requirement Gathering",
+    description: "Collaborated with stakeholders to identify and analyze project requirements.",
   },
   {
     id: 4,
-    title: "Full-Stack Development",
-    description: "Combining both frontend and backend development skills.",
+    title: " Testing & Deployment:",
+    description: "Ensured cross-browser compatibility and tested the website for functional correctness.",
   },
   {
     id: 5,
-    title: "Content Writing",
-    description: "Writing content for your business and companies.",
+    title: "Database Management",
+    description: "Designed and managed the database schema to efficiently store and retrieve user data and service information.",
   },
   {
     id: 6,
-    title: "Digital Marketing",
-    description: "Promote your business with our digital marketing team.",
+    title: "API Integration",
+    description: "Integrated third-party APIs for payment processing and customer support functionalities to enhance user experience.",
   },
 ];
 const Service = () => {

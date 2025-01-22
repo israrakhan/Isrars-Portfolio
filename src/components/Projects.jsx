@@ -1,28 +1,28 @@
 import React from "react";
-import employeeMSImage from "../assets/employee-ms.png";
+import employeeMSImage from "../assets/UCN Cable Network Pvt Ltd..png";
 import bookMSImage from "../assets/admin-dashboard.png";
 
 const projects = [
   {
     id: 1,
-    name: "Employee MS",
-    technologies: "MERN Stack",
+    name: "ECommerce Site",
+    technologies: "ReactJS & Tailwind",
     image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
+    github: "https://github.com/israrakhan",
   },
   {
     id: 2,
     name: "Blog App",
-    technologies: "MERN Stack",
+    technologies: "ReactJs",
     image: bookMSImage,
-    github: "https://github.com/YouafKhan1",
+    github: "https://github.com/israrakhan",
   },
   {
     id: 3,
-    name: "Book MS",
+    name: "ReactJS & Tailwind",
     technologies: "MERN Stack",
     image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
+    github: "https://github.com/israrakhan",
   },
 ];
 

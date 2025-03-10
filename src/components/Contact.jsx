@@ -13,7 +13,7 @@ const Contact = () => {
             <p>I'm open to discussing web development Projects or partnership opportunities.</p>
             <div className='mb-4 mt-8'>
                 <FaEnvelope className='inline-block text-green-400 mr-2'></FaEnvelope>
-                <a href="mailto:youremail@example.com" className='hover:underline'>
+                <a href="ik427094@gmail.com" className='hover:underline'>
                     ik427094@gmail.com
                 </a>
             </div>
@@ -33,14 +33,14 @@ const Contact = () => {
                     <input type="text" 
                     className='w-full p-2 rounded bg-gray-800 border border-gray-600 focus:outline-none
                     focus:border-green-400'
-                    placeholder='Enter You Name'/>
+                    placeholder='Enter Your Name'/>
                 </div>
                 <div>
-                    <label htmlFor="emial" className='block mb-2'>Email</label>
+                    <label htmlFor="email" className='block mb-2'>Email</label>
                     <input type="text" 
                     className='w-full p-2 rounded bg-gray-800 border border-gray-600 focus:outline-none
                     focus:border-green-400'
-                    placeholder='Enter You Email'/>
+                    placeholder='Enter Your Email'/>
                 </div>
                 <div>
                     <label htmlFor="message" className='block mb-2'>Message</label>

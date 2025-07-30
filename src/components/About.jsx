@@ -92,7 +92,19 @@ const About = () => {
                   ></div>
                 </div>
               </div>
-
+              
+     <div className="flex items-center">
+                <label htmlFor="htmlandcss" className="w-2/12">
+                  Linux
+                </label>
+                <div className="grow bg-gray-800 rounded-full h-2.5">
+                  <div
+                    className="bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full 
+                    transform transition-transform duration-300 hover:scale-105 w-9/12"
+                  ></div>
+                </div>
+              </div>
+            </div>
               
               <div className="flex items-center">
                 <label htmlFor="htmlandcss" className="w-2/12">
@@ -108,18 +120,7 @@ const About = () => {
             </div>
           
               
-              <div className="flex items-center">
-                <label htmlFor="htmlandcss" className="w-2/12">
-                  Linux
-                </label>
-                <div className="grow bg-gray-800 rounded-full h-2.5">
-                  <div
-                    className="bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full 
-                    transform transition-transform duration-300 hover:scale-105 w-9/12"
-                  ></div>
-                </div>
-              </div>
-            </div>
+         
               
               <div className="flex items-center">
                 <label htmlFor="htmlandcss" className="w-2/12">

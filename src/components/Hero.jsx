@@ -19,19 +19,19 @@ cloud engineer with a strong foundation in Linux, AWS, and DevOps practices, ade
       
         <div className='mt-8 space-x-4'>
            
-           <a href="mailto:ik427094@gmail.com">
+           <a href="mailto:ik427094@gmail.com"target="_blank" >
            <button
             className='bg-gradient-to-r from-green-400 to-blue-500 text-white
             transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Contact With Me</button>
             </a> 
           
-           <a href="https://drive.google.com/file/d/14L78rf0feF1ERA5GROebkRgQAKqt9iJl/view?usp=sharing">
+           <a href="https://drive.google.com/file/d/14L78rf0feF1ERA5GROebkRgQAKqt9iJl/view?usp=sharing"target="_blank" >
            <button 
             className='bg-gradient-to-r from-pink-500 to-yellow-500 text-white
             transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Resume</button>
             </a> 
 
-            <a href="https://www.credly.com/users/israr-ahemad-khan">
+            <a href="https://www.credly.com/users/israr-ahemad-khan"target="_blank" >
            <button
             className='bg-gradient-to-r from-green-400 to-blue-500 text-white
             transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Earned Badges</button>

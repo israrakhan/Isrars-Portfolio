@@ -163,12 +163,11 @@ const About = () => {
                     </h3>
                     <p>Projects Completed</p>
                 </div>
-               
-            </div>
+                </div>
           </div>
-        </div>
-      </div>
-    </div> 
+          </div>
+       </div>
+      </div> 
     ) 
     };
 

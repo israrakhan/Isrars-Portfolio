@@ -83,8 +83,7 @@ const About = () => {
 
                <div className="flex items-center">
                 <label htmlFor="htmlandcss" className="w-2/12">
-                  OOP's
-                </label>
+Linux                </label>
                 <div className="grow bg-gray-800 rounded-full h-2.5">
                   <div
                     className="bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full 
